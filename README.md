@@ -1,3 +1,3 @@
 # Sorting_Visualizer
 
-This project is a Web Visualization tool for sorting algorithms.
+A web application for visualization of various sorting algorithms
